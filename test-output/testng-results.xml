@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[emp Creation success::13412  13412]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16956" started-at="2022-09-22T08:06:19Z" finished-at="2022-09-22T08:06:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16956" started-at="2022-09-22T08:06:19Z" finished-at="2022-09-22T08:06:36Z">
+      <class name="driverfactors.TestScript">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:driverfactors.TestScript@1bce4f0a]" name="setUp" is-config="true" duration-ms="10756" started-at="2022-09-22T13:36:19Z" finished-at="2022-09-22T13:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EmpCreation()[pri:0, instance:driverfactors.TestScript@1bce4f0a]" name="EmpCreation" duration-ms="4997" started-at="2022-09-22T13:36:30Z" finished-at="2022-09-22T13:36:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[emp Creation success::13412  13412]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EmpCreation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:driverfactors.TestScript@1bce4f0a]" name="tearDown" is-config="true" duration-ms="1194" started-at="2022-09-22T13:36:35Z" finished-at="2022-09-22T13:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverfactors.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
